@@ -3,8 +3,6 @@
 </div>
 <h2 align="left">🛠 Technologies and Tools 🛠</h2>
 
-<!-- https://simpleicons.org/ -->
-
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactNative-282C34?logo=react&logoColor=61DAFB" alt="ReactNative logo" title="ReactJS" height="25" /></span>
